@@ -11,7 +11,7 @@ module.exports = function(grunt) {
       all: {
         src: [ "src/**/*.purs"
              , "bower_components/**/src/**/*.purs"],
-        dest: "dist/example.js"
+        dest: "dist/main.js"
       }
     },
     watch: {
