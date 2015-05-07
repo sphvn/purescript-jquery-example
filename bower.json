@@ -1,0 +1,21 @@
+{
+  "name": "purs-play",
+  "version": "0.0.0",
+  "authors": [
+    "Stephen Underwood <_@sphvn.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "purescript-dom": "~0.1.2",
+    "purescript-jquery": "~0.4.0",
+    "purescript-monad-eff": "~0.1.0"
+  }
+}
